@@ -1,7 +1,7 @@
 {
   "name": "warc-stream",
   "version": "0.0.1",
-  "description": "Tranform stream to read .warc or .warc.gz file member by member in nodejs",
+  "description": "Transform stream to read .warc or .warc.gz file member by member in nodejs",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {

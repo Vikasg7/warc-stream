@@ -1,7 +1,7 @@
 # warc-stream
 
 - ### Intro  
-   **warc-stream** is a Tranform stream to read .warc or .warc.gz file member by member in nodejs
+   **warc-stream** is a Transform stream to read .warc or .warc.gz file member by member in nodejs
 
 - ### Install  
    `npm install git+https://github.com/Vikasg7/warc-stream.git`  
