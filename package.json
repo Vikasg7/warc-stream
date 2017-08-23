@@ -1,0 +1,24 @@
+{
+  "name": "warc-stream",
+  "version": "0.0.1",
+  "description": "Tranform stream to read .warc or .warc.gz file member by member in nodejs",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "tsc -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "pending"
+  },
+  "keywords": [
+    "pending"
+  ],
+  "author": "Vikas Gautam <v33vikasgautam@gmail.com> (http://mytrikks.blogspot.com)",
+  "license": "MIT",
+  "dependencies": {
+    "gzip-stream": "git+https://github.com/Vikasg7/gzip-stream.git",
+    "typescript": "^2.4.2"
+  }
+}
